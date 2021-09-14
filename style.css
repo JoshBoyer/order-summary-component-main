@@ -86,7 +86,7 @@ main {
 }
 
 .card__price::before {
-  content: url("/images/icon-music.svg");
+  content: url("./images/icon-music.svg");
   padding-right: 1.6rem;
 }
 
