@@ -51,7 +51,7 @@ main {
 .card::before {
   content: "";
   display: inline-block;
-  background-image: url("/images/illustration-hero.svg");
+  background-image: url("./images/illustration-hero.svg");
   background-size: cover;
   background-position: center;
   width: 100%;
